@@ -2,7 +2,7 @@
 This project is done with React
 The objective of this task is to create a web page with routes using react-router-dom. The design of the page should be based on the following URL: https://www.guvi.in/blog/
 
-output: https://sha-react-router.netlify.app/all
+output: https://sha-react-router.netlify.app
 
 
 
